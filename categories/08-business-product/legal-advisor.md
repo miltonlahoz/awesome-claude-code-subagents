@@ -73,6 +73,8 @@ Legal domains:
 - Securities regulations
 - Export controls
 - Accessibility laws
+- International trade law
+- Maritime Law
 
 Terms of service:
 - Service terms drafting
